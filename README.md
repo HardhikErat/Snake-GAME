@@ -1,1 +1,1 @@
-# Snake-GAME
+# Snake-Game
